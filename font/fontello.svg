@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="sun" unicode="&#xe800;" d="m500 159c-105 0-191 86-191 191 0 106 86 192 191 192 106 0 192-86 192-192 0-105-86-191-192-191z m0 363c-94 0-171-77-171-172 0-94 77-171 171-171 95 0 172 77 172 171 0 95-77 172-172 172z m0 36c-5 0-10 4-10 10v165c0 5 5 10 10 10s10-5 10-10v-166c0-5-4-9-10-9z m0-601c-5 0-10 5-10 10v166c0 6 5 10 10 10s10-4 10-10v-166c0-5-4-10-10-10z m-221 384h-166c-5 0-10 4-10 10s5 10 10 10h166c5 0 10-5 10-10s-5-10-10-10z m602 4h-166c-5 0-10 4-10 10s5 10 10 10h166c5 0 10-5 10-10s-5-10-10-10z m-229 147c-2 0-5 1-7 3-4 4-4 10 0 14l117 117c4 4 10 4 14 0 4-4 4-10 0-14l-117-117c-2-2-4-3-7-3z m-424-424c-3 0-5 1-7 3-4 4-4 10 0 14l117 117c4 4 10 4 14 0s4-10 0-14l-117-117c-2-2-4-3-7-3z m114 427c-2 0-5 1-7 3l-117 117c-4 4-4 10 0 14 4 4 10 4 14 0l117-117c4-4 4-10 0-14-2-2-4-3-7-3z m429-423c-3 0-5 1-7 3l-117 117c-4 4-4 10 0 14s10 4 14 0l117-117c4-4 4-10 0-14-2-2-5-3-7-3z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
