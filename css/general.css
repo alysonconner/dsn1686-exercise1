@@ -27,6 +27,13 @@ body {
 	border: 0;
 }
 
+.main {
+	padding-bottom: 30em;
+	margin: 0;
+	background-color: rgba(64,64,65,1);
+	text-align: center;
+}
+
 .sunny {
 	background-color: rgba(251,175,63,1);
 	margin: 0;
@@ -52,13 +59,6 @@ body {
 .rainy h1,
 .cloudy h1 {
 	font-size: 100px;
-}
-
-.main {
-	padding-bottom: 30em;
-	margin: 0;
-	background-color: rgba(64,64,65,1);
-	text-align: center;
 }
 
 h1 {
@@ -91,9 +91,16 @@ a {
 	text-shadow: 3px 3px 3px grey;
 }
 
-a:hover {
-	opacity: 1;
-	text-shadow: 3px 3px 3px black;
+.icon-sun:hover {
+	text-shadow: 3px 3px 3px rgba(251,175,63,1);
+}
+
+.icon-cloudy:hover {
+	text-shadow: 3px 3px 3px rgba(0,167,157,1);
+}
+
+.icon-rainy:hover {
+	text-shadow: 3px 3px 3px rgba(80,10,45,1);
 }
 
 .rotate{
